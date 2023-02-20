@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * errors - prints errors based on case
+ * errors - prints errors based on cases
  * @error: error number associated with perror statement
  * Return: void
  */

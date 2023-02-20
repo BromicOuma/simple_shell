@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-**shell_exit - exits the shell
+**shell_exit - efunction exits the shell
 **Return: void
 **/
 

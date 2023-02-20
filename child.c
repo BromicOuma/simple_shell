@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * child - function for child process created
+ * child - function for child process
  * @fullpath: full path of the executable
  * @tokens: tokenized user input
  * Return: returm 0 on success and -1 on error

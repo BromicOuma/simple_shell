@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
- * child - function for child process
- * @fullpath: full path of executable
+ * child - function for child process created
+ * @fullpath: full path of the executable
  * @tokens: tokenized user input
  * Return: 0 on success
  */

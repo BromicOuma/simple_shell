@@ -4,7 +4,7 @@
  * child - function for child process created
  * @fullpath: full path of the executable
  * @tokens: tokenized user input
- * Return: 0 on success
+ * Return: returm 0 on success and -1 on error
  */
 int child(char *fullpath, char **tokens)
 {

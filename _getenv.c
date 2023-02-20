@@ -2,7 +2,7 @@
 /**
  * _getenv - gets the environment variable
  * @name: environment variable to get the n
- * Return: pointer to environment variable or NULL if there is no match
+ * Return: pointer to environment variable or NULL if no match
  */
 char *_getenv(const char *name)
 {

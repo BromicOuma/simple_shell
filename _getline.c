@@ -2,7 +2,7 @@
 
 /**
  * _getline - puts input from user into buffer line
- * @fp: buffer for user inputs
+ * @fp: buffer for user inputss
  * Return: buffer with user input
  */
 char *_getline(FILE *fp)

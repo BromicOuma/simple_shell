@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _getenv - gets an environment variable
+ * _getenv - gets the environment variable
  * @name: environment variable to get
  * Return: pointer to environment variable or NULL if there is no match
  */

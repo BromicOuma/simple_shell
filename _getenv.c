@@ -2,7 +2,7 @@
 /**
  * _getenv - gets the environment variable
  * @name: environment variable to get the n
- * Return: pointer to environment variable or NULL if no match
+ * Return: pointer to environment variable or NULL if there no match
  */
 char *_getenv(const char *name)
 {
@@ -49,10 +49,10 @@ char *_getenv(const char *name)
 }
 
 /**
- * copy_env - copies environment variable
- * @environ_copy: pointer to copy of environment variable
- * @environ_length: length of environment variable
- * Return: double pointer to copy of environment variable
+ * copy_env - copies environments variable
+ * @environ_copy: pointer to copy of environments variables
+ * @environ_length: length of environment variables
+ * Return: double pointer to copy of environment variables
  */
 char **copy_env(char **environ_copy, unsigned int environ_length)
 {
